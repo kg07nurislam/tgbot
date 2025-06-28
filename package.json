@@ -1,0 +1,12 @@
+{
+  "name": "kg07nurislam-bot",
+  "version": "1.0.0",
+  "description": "kg07nurislam_bot Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
